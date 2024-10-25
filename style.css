@@ -9,6 +9,11 @@ nav {
     background-color: green;
 }
 
+nav:hover {
+    background-color: lightgreen;
+}
+
+
 body {
     background-color: yellow;
 }
@@ -17,6 +22,17 @@ a {
     text-align: center;
 }
 
-.BBL.png img {
-position: relative;
+p {
+    text-align: center;
+    
+}
+
+img {
+position: center;
+width: 10px;
+height: 10px;
+}
+
+footer {
+    padding-top: 50px;
 }

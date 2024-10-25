@@ -27,7 +27,13 @@ p {
     
 }
 
+.nav-link {
+    text-color: black;
+}
 
+.nav-link:hover {
+    text-color: white;
+}
 
 img { 
 width: 400px;

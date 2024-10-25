@@ -17,6 +17,7 @@ a {
     text-align: center;
 }
 
+<<<<<<< HEAD
 p {
     text-align: center;
     
@@ -28,4 +29,8 @@ position: right;
 
 footer {
     padding-top: 50px;
+=======
+.BBL.png img {
+position: relative;
+>>>>>>> origin/HEAD
 }
